@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvue_text2"]=self["webpackChunkvue_text2"]||[]).push([[494],{4494:function(e,u,n){n.r(u),n.d(u,{default:function(){return a}});var t=function(){var e=this,u=e._self._c;return u("div",[e._v("尼玛的")])},r=[],l={name:"groupOrder"},s=l,c=n(3736),f=(0,c.Z)(s,t,r,!1,null,null,null),a=f.exports}}]);
